@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning discord.js
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me: {
-- "Discord: grandma77#0077",
+- "Discord: grandma77",
 - "Discord_server": "https://discord.gg/py2uqjp2S3 ",
 - "Steam": "https://steamcommunity.com/profiles/76561199163938422 ",
 - "YouTube": "https://www.youtube.com/channel/UC0CB0ua94PTalN5OFTuej8A ",
